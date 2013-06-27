@@ -56,6 +56,11 @@
   - counterclockwise
   - groovy
 
+** II.2304 Conception et programmation orientée Objet: Yousra
+Salles: B14, B15, B26 et B53.
+Sur Linux:
+- Netbeans vesrion 6.7.1 avec un plug-in UML
+- LAMP
 
 ** II.2408 Bases de données avancées: Raja
 - SQL*Plus
